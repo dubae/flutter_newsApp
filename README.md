@@ -1,6 +1,7 @@
 # news
 
-A new Flutter project.
+summary Ai를 활용하여 뉴스의 요약본을 보여주는 서비스입니다.
+
 
 ## Getting Started
 
